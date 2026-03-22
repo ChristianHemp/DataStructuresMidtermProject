@@ -1,0 +1,3 @@
+type,id,year,dailyRentPrice,make,model,isAvailable,currentCustomerId,waitlist,extra
+Truck,1,2024,400.99,Mercedes,Bigboy,false,2,3,23000.0
+Motorcycle,2,2024,199.99,Ducati,Speeder,true,-1,,240
